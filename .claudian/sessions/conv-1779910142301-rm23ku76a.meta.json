@@ -4,8 +4,8 @@
   "title": "我想通过剪映来解说瑞克和莫蒂发在b站和抖音上面得到粉丝，你能帮我设计剧本和避免版权问题的办法",
   "titleGenerationStatus": "failed",
   "createdAt": 1779910142301,
-  "updatedAt": 1779918876009,
-  "lastResponseAt": 1779918876009,
+  "updatedAt": 1779919986426,
+  "lastResponseAt": 1779919986426,
   "sessionId": "3b7c5718-9310-4c62-83cc-bb010506bf44",
   "providerState": {
     "providerSessionId": "3b7c5718-9310-4c62-83cc-bb010506bf44"
@@ -13,12 +13,12 @@
   "currentNote": "电影解说/瑞克和莫蒂第一季01.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 5338,
+    "inputTokens": 4021,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 26624,
+    "cacheReadInputTokens": 32512,
     "contextWindow": 200000,
-    "contextTokens": 31962,
-    "percentage": 16,
+    "contextTokens": 36533,
+    "percentage": 18,
     "contextWindowIsAuthoritative": true
   }
 }
