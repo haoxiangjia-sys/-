@@ -4,20 +4,20 @@
   "title": "我打算装一台主机在中国装（自己装），可以用大机箱可以用水冷，我想上5070ti 加9800X3d ，...",
   "titleGenerationStatus": "failed",
   "createdAt": 1779964471615,
-  "updatedAt": 1779965001438,
-  "lastResponseAt": 1779965001438,
+  "updatedAt": 1779967593479,
+  "lastResponseAt": 1779966181395,
   "sessionId": "a283a21a-003c-40fa-8159-4354627a0888",
   "providerState": {
     "providerSessionId": "a283a21a-003c-40fa-8159-4354627a0888"
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 147,
+    "inputTokens": 2285,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 45312,
+    "cacheReadInputTokens": 48000,
     "contextWindow": 200000,
-    "contextTokens": 45459,
-    "percentage": 23,
+    "contextTokens": 50285,
+    "percentage": 25,
     "contextWindowIsAuthoritative": true
   }
 }
